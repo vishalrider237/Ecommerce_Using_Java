@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="javax.persistence-api-2.21">
+    <CLASSES>
+      <root url="jar://D:/SOFTWARE/Hibernate jars/javax.persistence-api-2.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
